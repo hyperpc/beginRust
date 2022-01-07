@@ -4,4 +4,4 @@
 
 ### [官方教程](https://www.rust-lang.org/zh-CN/learn)
 
-![Cover](./IMG/cover.jpg)
+![Cover](./IMG/cover.jpg)  
